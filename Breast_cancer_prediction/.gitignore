@@ -1,6 +1,7 @@
 # Ignore dataset files
 BreastCancerModel/
 breastvenv/
+.ipynb_checkpoints/
 *.csv
 *.pth
 *.png
