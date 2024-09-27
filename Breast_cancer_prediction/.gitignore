@@ -1,4 +1,6 @@
 # Ignore dataset files
-data/
+BreastCancerModel/
+breastvenv/
 *.csv
 *.pth
+*.png
