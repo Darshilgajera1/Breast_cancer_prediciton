@@ -2,6 +2,14 @@
 BreastCancerModel/
 breastvenv/
 .ipynb_checkpoints/
+# macOS system files
+.DS_Store
+
+# BFG Repo-Cleaner tool
+bfg.jar
+
+# BFG report files
+.git.bfg-report/
 *.csv
 *.pth
 *.png
